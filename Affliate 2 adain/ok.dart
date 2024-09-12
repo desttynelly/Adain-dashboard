@@ -1,0 +1,1 @@
+const rat = window.location = "plan.html"
